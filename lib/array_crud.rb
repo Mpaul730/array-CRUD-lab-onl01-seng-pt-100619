@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  goats = ["Goku", "Luffy", "Guts", "Itachi"]
+  array = ["wow", "I", "am", "really", "learning"]
   goats.push("Afro Samurai")
   puts goats.inspect
 end
