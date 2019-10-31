@@ -10,7 +10,6 @@ def add_element_to_end_of_array(array, element)
   goats = ["Goku", "Luffy", "Guts", "Itachi"]
   goats.push("Afro Samurai")
   puts goats.inspect
-  end
 end
 
 def add_element_to_start_of_array(array, element)
