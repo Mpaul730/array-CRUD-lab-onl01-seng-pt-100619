@@ -9,7 +9,7 @@ end
 def add_element_to_end_of_array(array, element)
 goats = ["Goku", "Luffy", "Guts", "Itachi"]
 goats << "Afro"
-puts goats.inspect
+puts goats
 end
 
 def add_element_to_start_of_array(array, element)
