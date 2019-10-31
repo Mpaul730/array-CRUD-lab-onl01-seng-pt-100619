@@ -8,8 +8,8 @@ end
 
 def add_element_to_end_of_array(array, element)
 goats = ["Goku", "Luffy", "Guts", "Itachi"]
-goats.push "Afro"
-puts goats
+goats.push("Afro")
+puts goats.inspect
 end
 
 def add_element_to_start_of_array(array, element)
